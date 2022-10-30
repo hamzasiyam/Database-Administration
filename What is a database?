@@ -1,0 +1,12 @@
+What is a database?
+A database is a computer system that organizes and stores data so that it can be useful at a later point in time.
+
+What is a relational database?
+A spreadsheet can be CONSIDERED as a type of database BUT when most people talk about databases they are talking about a more specific system called a RELATIONAL
+DATABASE.
+
+A relational database enforces specific rules on the system that govern how the data is structured, stored, and retrived.
+In a relation database data is organized into TABLES, just like a spreadsheet, that contains COLUMNS and rows BUT unlilke a traditional spreadsheet relation databases
+contains many different TABLES that ALL RELATE to each other.
+
+This system of RELATED TABLES allows data to be stored in a efficent manner, reduces duplication and inconsisitencies makes retrival faster AND allows data to be "sliced" and "diced" into a specific number of arrangements to allow an analyst to turn raw data into useful, valuable and actional information.
